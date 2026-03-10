@@ -1,0 +1,13 @@
+# Discord credentials
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Deployment
+Dockerfile
+railway.json
